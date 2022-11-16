@@ -60,7 +60,7 @@ Entre os critérios de avaliação estão:
 * Design Patterns
 * Testes unitários
 
-## How to call it ?
+## JSONs de exemplo a serem utilizados na aplicação
 
 ### Planos disponiveis
 
