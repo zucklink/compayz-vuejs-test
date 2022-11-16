@@ -23,7 +23,8 @@ https://www.loom.com/share/02ca70dfb7d14798afc6d95a5dd91ad9
 - Permitir o usuario aumentar quantidade de dominios no plano 4D e 5D
 - Permitir o usuario informar dados do cartao
     - Dados pessoais
-    - Endereço de fatura do cartao (consulta com algum serviço de CEP é um plus)
+    - Endereço de fatura do cartao
+     - Consultar CEP usando API : https://viacep.com.br/
     - Dados do cartao
 
 ### Tecnologias
