@@ -62,9 +62,7 @@ Entre os critérios de avaliação estão:
 
 ## JSONs de exemplo a serem utilizados na aplicação
 
-### Planos disponiveis
-
-#### Response
+### JSON de Planos disponiveis
 
 ##### Metadata
 
@@ -197,7 +195,7 @@ Entre os critérios de avaliação estão:
 }
 ````
 
-### Obter valor adicional de um recurso conforme demonstrado no video
+### JSON para Obter valor adicional de um recurso conforme demonstrado no video
 
 #### Response
 
