@@ -12,7 +12,7 @@ Vamos ser práticos e diretos, se você quer trabalhar conosco siga os passos ab
 
 # Desafio
 
-Você deverá criar 1 aplicação confirme apresentada no video
+Você deverá criar 1 aplicação conforme apresentada no video
 
 https://www.loom.com/share/02ca70dfb7d14798afc6d95a5dd91ad9
 
