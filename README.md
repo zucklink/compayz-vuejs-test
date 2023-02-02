@@ -7,7 +7,7 @@ Vamos ser práticos e diretos, se você quer trabalhar conosco siga os passos ab
 * Faça um "fork" desse projeto para sua conta GitHub.
 * Implemente o desafio descrito no tópico abaixo.
 * Faça um push para seu repositório com o desafio implementado.
-* Envie um email para (fernandomoraes@compayz.com) com cópia para (joaosoares@compayz.com)
+* Envie um email para (fernandomoraes@compayz.com) com cópia para (juniorabranches@compayz.com)
   avisando que finalizou o desafio com a url do seu fork.
 
 # Desafio
